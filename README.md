@@ -5,18 +5,26 @@
 
 <div style="display: inline_block, margin-left: 600px" align="center"><br>
  <h3>Tools mastered</h3>
-  <img align="space-beetwen" alt="Duzzk-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <a href="https://github.com/duzzk1">
+   <img align="space-beetwen" alt="Duzzk-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ </a>
+ <a href="https://duzzk1.github.io/my_new_portif">
   <img align="space-beetwen" alt="Duzzk-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </a>
+   
+ <a href="https://github.com/duzzk1/ToDoSolo">
   <img align="space-beetwen" alt="Duzzk-Js" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ </a>
   
 </div>
- 
+
  ##
  
  <div style="display: inline_block, margin-left: 600px" align="center"><br>
  <h3>Under study</h3>
  <img align="space-beetwen" alt="Duzzk-Ts" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <a href="https://github.com/duzzk1"><img align="space-beetwen" alt="Duzzk-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://github.com/duzzk1/blog-react-js">
+   <img align="space-beetwen" alt="Duzzk-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 </div>
 
 ##
