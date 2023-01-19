@@ -8,7 +8,7 @@
   <a href="https://github.com/duzzk1" target="_blank">
    <img align="space-beetwen" alt="Duzzk-HTML" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  </a>
- <a href="https://duzzk1.github.io/my_new_portif" target="_blank">
+ <a href="https://github.com/duzzk1/my_new_portif" target="_blank">
   <img align="space-beetwen" alt="Duzzk-CSS" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </a>
    
