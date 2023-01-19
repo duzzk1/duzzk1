@@ -16,7 +16,7 @@
  <div style="display: inline_block, margin-left: 600px" align="center"><br>
  <h3>Under study</h3>
  <img align="space-beetwen" alt="Duzzk-Ts" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="space-beetwen" alt="Duzzk-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <a href="https://github.com/duzzk1"><img align="space-beetwen" alt="Duzzk-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
 </div>
 
 ##
