@@ -26,6 +26,8 @@
  <h3>Under study</h3>
   <a href="https://github.com/duzzk1/blog-react-js" target="_blank">
    <img align="space-beetwen" alt="Duzzk-React" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+  <a href="https://github.com/duzzk1/studyproj" target="_blank">
+   <img align="space-beetwen" alt="Duzzk-Laravel" height="80" width="90" src="https://raw.githubusercontent.com/vorillaz/devicons/master/!SVG/laravel.svg"></a>
   <a href="https://github.com/duzzk1" target="_blank">
  <img align="space-beetwen" alt="Duzzk-Ts" height="80" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></a>
 </div>
