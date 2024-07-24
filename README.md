@@ -1,5 +1,5 @@
 <div align="center"><h1> Hello! Im Eduardo Santos.</h1> </div>
-<div align="center"> I'm a "Dev Lover", passionate about development... </div>
+<div align="center"> I'm a software engineer, 2y XP... </div>
 
 ##
 
